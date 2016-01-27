@@ -1,0 +1,18 @@
+It helps because you can notice what you have changed respect the older version,
+so if the first version had no bugs, but the new version has, whit this you can see that one simple mistake like a different letter can change everything
+
+It helps a lot because in case there was a problem with a file, like in the video with the space ship you can find which the error or bug is it. It helps me as a programmer 
+in the way that if I needed something that I already erased I can see in my older versions instead of having to make it all over again.
+
+THe pros are that you decide when to do it without help, and if you made a change you dont have to wait until the file is automatically saved. The cons are that you can make
+ many commits that arent necessary. You can make a mistake and dont describe one commit, you can make only one commit with multiple changes.
+
+I think git allows to saving in one commit all the changes we made to the other files in our repository because it knows that these other files are involved with the file
+that controls all the others. ANd google docs don't do it because it saves all he files as they were independent of each other.
+
+I can use them to see when and what did I change from one file to another, see how many lines did I change and what. I can see where those differences are a see
+if I have made a mistake or where did I did a big change that could affect my program.
+
+It makes me more confident because I know that if I made a mistake and all my program is incorrect I can get bat to my old versions were all is working correctly
+
+I would use it to make my new proyects that I have to make in the University.

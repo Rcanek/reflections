@@ -1,0 +1,6 @@
+It doesnt create any commit, and if you have files in the carpet they migth be untracked files because it doesnt followed what has happening with them.
+To see which changes I have made with my docs.
+
+The repository is the plase were there is a record of all the changes we have made in the files that are int the working directory. The staging area is a place were all the doc are for a while until we pass them to the repository.
+
+/  
