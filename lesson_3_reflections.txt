@@ -6,3 +6,5 @@ Me gustaria hacer manualmente los cambiso debido a que yo se que se modifico y c
 
 Clones son repositorios que yo creo en mi computadora, copiados de uno mio o de otra persona en git. Fork es tomar el codigo de una persona pero darle credito y 
 que se note en github de ello. Branches es crear como una nueva parte del programa, donde yo no modifico lo original, sino que tabajo en mi propia rama
+
+me ayuda a que yo pueda saber que se cambio desde mi ultima copia hasta la que yo venia trabajando desde antes
