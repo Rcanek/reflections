@@ -8,3 +8,6 @@ Clones son repositorios que yo creo en mi computadora, copiados de uno mio o de 
 que se note en github de ello. Branches es crear como una nueva parte del programa, donde yo no modifico lo original, sino que tabajo en mi propia rama
 
 me ayuda a que yo pueda saber que se cambio desde mi ultima copia hasta la que yo venia trabajando desde antes
+
+Yo usaria github debido a que mis companeros y yo vivimos lejos unos de otros y no podemos juntarnos todos los dias a trabajar, por lo mismo seria mucho mas facil
+trabajar desde github
