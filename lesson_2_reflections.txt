@@ -3,4 +3,15 @@ To see which changes I have made with my docs.
 
 The repository is the plase were there is a record of all the changes we have made in the files that are int the working directory. The staging area is a place were all the doc are for a while until we pass them to the repository.
 
-/  
+It helps because in that way you can see what are you going to do in the next step, 
+so it wont make you to do many stuff at the same time.
+
+Me ayudaria de modo que cuando tenga que hacer una nueva version de algo , no tener que cambiarlo por completo y tener siempre el mismo en una parte y el modificado, 
+a salvo y sin modificar en caso de necesitarlo
+
+me ayuda a visualizar como es que se van creando o desarrolando el programa conforme lo voy modificando.
+
+Me ayuda a poder tener mi codigo de vuelta a uno solo y poder tener todo lo que he trabajado en un solo documento
+
+Los pros de hacerlo automaticamente, son que al final se ahorrara mucho trabajo al momento de unirlo, sus contras serian que no siempre se puede hacer. 
+Manualmente tiene la ventaja que uno decide que poner, a diferencia de la maquina pero lleva tiempo
