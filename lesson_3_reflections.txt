@@ -11,3 +11,5 @@ me ayuda a que yo pueda saber que se cambio desde mi ultima copia hasta la que y
 
 Yo usaria github debido a que mis companeros y yo vivimos lejos unos de otros y no podemos juntarnos todos los dias a trabajar, por lo mismo seria mucho mas facil
 trabajar desde github
+
+Los beneficios son que el resto de personas puede seguir trabajando con la version original del proyecto y sin tener que estarme esperando
